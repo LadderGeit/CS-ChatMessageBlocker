@@ -8,7 +8,7 @@
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/ncp/payment/KTSD75JTKJFM2)
 
 ## Summary
-Blocks certain messages from being displayed in chat to prevent spam. Especially useful on deathmatch servers.
+Blocks certain messages from being displayed in chat to prevent spam. Especially useful on deathmatch servers. There were a lot of complaints on other plugins not working properly, so that's why i decided to create a functional one.
 
 ## Requirements
 * A CS2 server with [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=master) and [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)[^1] installed
