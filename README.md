@@ -14,7 +14,7 @@ Blocks certain messages from being displayed in chat to prevent spam. Especially
 * A CS2 server with [Metamod:Source](https://www.sourcemm.net/downloads.php?branch=master) and [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)[^1] installed
 
 ## Installation
-1. Download ChatMessageBlocker
+1. Download [ChatMessageBlocker](https://github.com/LadderGeit/CS-ChatMessageBlocker/releases/tag/v1.0.0)
 2. Unpack the downloaded files and upload them to your server like you would with any other plugin
 3. Restart your server to load the plugin
 
