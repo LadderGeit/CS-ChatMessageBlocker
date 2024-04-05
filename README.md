@@ -4,6 +4,9 @@
 ![Static Badge](https://img.shields.io/badge/Latest%20release%20-%2004.24%20-%20green?style=flat&labelColor=%23303030&color=%234249ff)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LadderGeit/LG-CSS-ChatMessageBlocker?display_timestamp=author&style=flat&labelColor=%23303030&color=%23aa00b3)
 
+> Do you like my work? Consider donating to support me.<br/>
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/ncp/payment/KTSD75JTKJFM2)
+
 ## Summary
 Blocks certain messages from being displayed in chat to prevent spam. Especially useful on deathmatch servers.
 
