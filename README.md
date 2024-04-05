@@ -1,7 +1,6 @@
 # CS# Chat Message Blocker
-![Static Badge](https://img.shields.io/badge/Version%20-%20v1.0.0%20-%20green?style=flat&labelColor=%23303030&color=%234249ff)
-![Static Badge](https://img.shields.io/badge/First%20release%20-%2004.24%20-%20green?style=flat&labelColor=%23303030&color=%234249ff)
-![Static Badge](https://img.shields.io/badge/Latest%20release%20-%2004.24%20-%20green?style=flat&labelColor=%23303030&color=%234249ff)
+![GitHub Release](https://img.shields.io/github/v/release/LadderGeit/CS-ChatMessageBlocker?display_name=tag&style=flat&labelColor=%23303030&color=%234249ff)
+![GitHub Release Date](https://img.shields.io/github/release-date/LadderGeit/CS-ChatMessageBlocker?labelColor=%23303030&color=%234249ff)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LadderGeit/LG-CSS-ChatMessageBlocker?display_timestamp=author&style=flat&labelColor=%23303030&color=%23aa00b3)
 
 > Do you like my work? Consider donating to support me.<br/>
